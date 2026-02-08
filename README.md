@@ -121,10 +121,6 @@ Python 3.8 or higher
 pip package manager
 (Optional) Anaconda for environment management
 
-Quick Start
-bash# Clone the repository
-git clone https://github.com/yourusername/NbS-Strategic-Framework.git
-cd NbS-Strategic-Framework
 
 # Create virtual environment
 python -m venv venv
